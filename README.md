@@ -22,14 +22,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
