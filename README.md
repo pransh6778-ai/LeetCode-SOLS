@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
@@ -45,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
