@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0875-koko-eating-bananas) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
@@ -87,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
