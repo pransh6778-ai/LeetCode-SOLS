@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
