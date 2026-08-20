@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
@@ -124,5 +126,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
