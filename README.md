@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0766-toeplitz-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1470-shuffle-the-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3360-stone-removal-game) |
 ## Matrix
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1672-richest-customer-wealth) |
