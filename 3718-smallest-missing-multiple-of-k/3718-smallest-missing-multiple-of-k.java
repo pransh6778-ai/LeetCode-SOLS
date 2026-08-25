@@ -5,15 +5,10 @@ class Solution {
         for(int x: nums){
             set.add(x);
         }
-        if(n<2){
-            if(nums[0]==k){
-                return 2*k;
-            }
-        }
-        for(int i=1; i<n; i++){
+        for(int i=1; i<=n+1; i++){
             if(!set.contains(k*i))
             return k*i;
         }
-        return k*n;
+        return -1;
     }
 }
