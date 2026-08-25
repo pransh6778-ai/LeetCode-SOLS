@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
