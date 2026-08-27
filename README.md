@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
