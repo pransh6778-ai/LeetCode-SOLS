@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
@@ -178,4 +181,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
