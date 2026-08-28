@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3360-stone-removal-game) |
 ## Matrix
