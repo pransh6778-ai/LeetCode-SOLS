@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
