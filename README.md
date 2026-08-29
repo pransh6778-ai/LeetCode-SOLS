@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0205-isomorphic-strings) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
