@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
