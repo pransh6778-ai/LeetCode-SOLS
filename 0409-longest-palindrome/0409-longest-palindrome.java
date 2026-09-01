@@ -1,12 +1,12 @@
 class Solution {
     public int longestPalindrome(String s) {
-        HashMap<Character, Integer> map= new HashMap<>();
-        for( char c : s.toCharArray()){
-            map.put(c, map.getOrDefault(c,0)+1);
+        char[] freq= new char[256];
+        for(char c: s.toCharArray()){
+            freq[c]++;
         }
         int length=0;
         boolean odd= true;
-        for(int f: map.values()){
+        for(int f: freq){
             if(f%2==0){
                 length+=f;
             }else if(f>2){
