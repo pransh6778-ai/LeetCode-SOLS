@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
+| [2485-find-the-pivot-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
