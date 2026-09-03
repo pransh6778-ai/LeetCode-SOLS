@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
+| [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0414-third-maximum-number) |
+| [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
