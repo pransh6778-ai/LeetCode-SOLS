@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0041-first-missing-positive) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
