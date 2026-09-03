@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0875-koko-eating-bananas) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
