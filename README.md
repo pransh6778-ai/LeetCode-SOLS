@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2485-find-the-pivot-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2965-find-missing-and-repeated-values) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2965-find-missing-and-repeated-values](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2965-find-missing-and-repeated-values) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1672-richest-customer-wealth) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1929-concatenation-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Bit Manipulation
 |  |
