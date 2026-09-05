@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
@@ -275,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
