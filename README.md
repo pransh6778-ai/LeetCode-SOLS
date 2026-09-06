@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
