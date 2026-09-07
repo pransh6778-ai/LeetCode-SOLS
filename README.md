@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0203-remove-linked-list-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
