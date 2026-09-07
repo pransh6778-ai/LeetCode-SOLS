@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -300,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
