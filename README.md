@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0905-sort-array-by-parity) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
