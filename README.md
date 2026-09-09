@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
+| [1492-the-kth-factor-of-n](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1492-the-kth-factor-of-n) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 ## Primality Test
 |  |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
