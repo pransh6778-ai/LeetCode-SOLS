@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0905-sort-array-by-parity) |
 ## Sliding Window
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
