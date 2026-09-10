@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0205-isomorphic-strings) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0202-happy-number) |
 ## Number Theory
 |  |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0206-reverse-linked-list) |
