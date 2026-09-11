@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
