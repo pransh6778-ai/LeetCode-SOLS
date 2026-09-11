@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3875-construct-uniform-parity-array-i) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
