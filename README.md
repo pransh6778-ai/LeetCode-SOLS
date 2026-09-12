@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
 | [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
+| [0560-subarray-sum-equals-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0605-can-place-flowers) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/3904-smallest-stable-index-ii) |
