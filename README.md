@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0605-can-place-flowers) |
 | [0766-toeplitz-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0875-koko-eating-bananas) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0766-toeplitz-matrix) |
+| [0835-image-overlap](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
