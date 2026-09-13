@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0905-sort-array-by-parity) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1470-shuffle-the-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0942-di-string-match) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
