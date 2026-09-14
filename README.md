@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0892-surface-area-of-3d-shapes) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/2481-minimum-cuts-to-divide-a-circle) |
