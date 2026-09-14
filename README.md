@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0160-intersection-of-two-linked-lists) |
