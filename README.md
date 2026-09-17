@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0242-valid-anagram) |
@@ -382,9 +383,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0191-number-of-1-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
