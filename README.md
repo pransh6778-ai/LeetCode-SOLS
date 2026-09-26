@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -398,9 +399,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
