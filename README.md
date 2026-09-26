@@ -266,10 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0463-island-perimeter) |
 ## Geometry
 |  |
@@ -393,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
