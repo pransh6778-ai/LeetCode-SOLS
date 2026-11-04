@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
 |  |
 | ------- |
