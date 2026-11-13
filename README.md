@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0409-longest-palindrome) |
+| [0481-magical-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0942-di-string-match) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0481-magical-string) |
 | [0680-valid-palindrome-ii](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pransh6778-ai/LeetCode-SOLS/tree/master/0905-sort-array-by-parity) |
